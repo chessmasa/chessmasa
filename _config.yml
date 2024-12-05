@@ -4,10 +4,10 @@ plugins:
 
 title: Chess Masa
 description: An open-source chess project
-is_project_page: "true"
 
 show_downloads: "true"
 
 github:
+  is_project_page: "true"
   repository_url: https://github.com/smonterola/chess-app-new
   zip_url: https://github.com/smonterola/chess-app-new/archive/refs/heads/main.zip
