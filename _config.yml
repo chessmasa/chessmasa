@@ -2,7 +2,6 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: Chess Masa
 description: An open-source chess project
 
 show_downloads: "true"
