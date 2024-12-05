@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: chessmasa
-description: An open-source chess project
+description: an open-source chess project
 
 show_downloads: "true"
 
