@@ -4,6 +4,7 @@ plugins:
 
 title: Chess Masa
 description: An open-source chess project
+is_project_page: "true"
 
 show_downloads: "true"
 
