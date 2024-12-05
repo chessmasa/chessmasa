@@ -1,23 +1,25 @@
-# Timeline
+# chessmasa
+
+## Timeline
 
 A brief history of our project followed by our future aspirations.
 
-## Origins
+### Origins
 
 Where it all began...
 
-## Ultimate Goal
+### Ultimate Goal
 
 Where it all ends...
 
-# Documentation
+## Documentation
 
-## Installation
+### Installation
 
-## Usage
+### Usage
 
-# Contributing
+## Contributing
 
-## Reach Out
+### Reach Out
 
-## Join Our Mail List
+### Join Our Mail List
