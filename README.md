@@ -6,7 +6,7 @@ A brief history of our project followed by our future aspirations.
 
 ### Origins
 
-Where it all began...
+smonterola first created this project over the summer of 2024.
 
 ### Ultimate Goal
 
