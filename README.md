@@ -24,4 +24,4 @@ You can click on a piece to see its valid moves. You will only be able to see th
 
 ## Contributing
 
-Open a pull request or issue tab on our GitHub page! We'd love to hear from you.
+Drop a comment under the Discussions tab on our GitHub page! We'd love to hear from you. If the Discussions ever becomes too crowded, we will find another form of communication.
