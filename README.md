@@ -10,7 +10,7 @@ Where it all began...
 
 ### Ultimate Goal
 
-We would like to make our bot faster and more powerful by utilizing artificial intelligence. There are some interesting APIs such as [OpenChess](#https://api.openchess.io/index.html) that easily give us access to a bot, but it would be neat to look into creating out own as well.
+We would like to make our bot faster and more powerful by utilizing artificial intelligence. There are some interesting APIs such as [OpenChess](https://api.openchess.io/index.html) that easily give us access to a bot, but it would be neat to look into creating out own as well.
 
 ## Documentation
 
