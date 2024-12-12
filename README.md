@@ -1,5 +1,7 @@
 # chessmasa
 
+![preview](chessmasa.png)
+
 ## Timeline
 
 A brief history of our project followed by our future aspirations.
