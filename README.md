@@ -20,10 +20,8 @@ You can clone this repository and then run `npm install` and `npm start` to deve
 
 ### Usage
 
-
+You can click on a piece to see its valid moves. You will only be able to see the valid moves for the color whose turn it is. Then you can drag and drop the pieces to the desired square when you are ready. The buttons at the top of the screen include an option to reset the board, have the bot choose the next move, a selection for which piece to promote to (queen/rook/bishop/knight), and documentation (which brings you to this page).
 
 ## Contributing
 
-### Reach Out
-
-### Join Our Mail List
+Open a pull request or issue tab on our GitHub page! We'd love to hear from you.
